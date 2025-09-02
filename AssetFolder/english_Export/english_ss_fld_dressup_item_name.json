@@ -463,6 +463,546 @@
                     "strWidth": 189.171875
                 }
             ]
+        },
+        {
+            "labelIndex": 15,
+            "arrayIndex": 15,
+            "labelName": "SS_fld_dressup_item_name_DJ_1",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Classic DJ Hoodie with Dad Cap",
+                    "strWidth": 423.75
+                }
+            ]
+        },
+        {
+            "labelIndex": 16,
+            "arrayIndex": 16,
+            "labelName": "SS_fld_dressup_item_name_DJ_2",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Modern DJ Hoodie with Dad Cap",
+                    "strWidth": 437.453125
+                }
+            ]
+        },
+        {
+            "labelIndex": 17,
+            "arrayIndex": 17,
+            "labelName": "SS_fld_dressup_item_name_DJ_3",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Classic DJ Hoodie",
+                    "strWidth": 237.203125
+                }
+            ]
+        },
+        {
+            "labelIndex": 18,
+            "arrayIndex": 18,
+            "labelName": "SS_fld_dressup_item_name_DJ_4",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Modern DJ Hoodie",
+                    "strWidth": 250.90625
+                }
+            ]
+        },
+        {
+            "labelIndex": 19,
+            "arrayIndex": 19,
+            "labelName": "SS_fld_dressup_item_name_DJ_5",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Team Lumi Shirt with Dad Cap",
+                    "strWidth": 394.21875
+                }
+            ]
+        },
+        {
+            "labelIndex": 20,
+            "arrayIndex": 20,
+            "labelName": "SS_fld_dressup_item_name_DJ_6",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Team Lumi Shirt",
+                    "strWidth": 207.671875
+                }
+            ]
+        },
+        {
+            "labelIndex": 21,
+            "arrayIndex": 21,
+            "labelName": "SS_fld_dressup_item_name_DJ_7",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Target Shirt with Dad Cap",
+                    "strWidth": 337.84375
+                }
+            ]
+        },
+        {
+            "labelIndex": 22,
+            "arrayIndex": 22,
+            "labelName": "SS_fld_dressup_item_name_DJ_8",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Target Shirt",
+                    "strWidth": 151.296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 23,
+            "arrayIndex": 23,
+            "labelName": "SS_fld_dressup_item_name_DJ_9",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Dr DJ Pepper Shirt with Dad Cap",
+                    "strWidth": 429.796875
+                }
+            ]
+        },
+        {
+            "labelIndex": 24,
+            "arrayIndex": 24,
+            "labelName": "SS_fld_dressup_item_name_DJ_10",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Dr DJ Pepper Shirt",
+                    "strWidth": 243.25
+                }
+            ]
+        },
+        {
+            "labelIndex": 25,
+            "arrayIndex": 25,
+            "labelName": "SS_fld_dressup_item_name_DJ_11",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "#1 Moppa Shirt with Dad Cap",
+                    "strWidth": 378.84375
+                }
+            ]
+        },
+        {
+            "labelIndex": 26,
+            "arrayIndex": 26,
+            "labelName": "SS_fld_dressup_item_name_DJ_12",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "#1 Moppa Shirt",
+                    "strWidth": 192.296875
+                }
+            ]
+        },
+        {
+            "labelIndex": 27,
+            "arrayIndex": 27,
+            "labelName": "SS_fld_dressup_item_name_DJ_13",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "DJ Monday Shirt with Dad Cap",
+                    "strWidth": 402.65625
+                }
+            ]
+        },
+        {
+            "labelIndex": 28,
+            "arrayIndex": 28,
+            "labelName": "SS_fld_dressup_item_name_DJ_14",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "DJ Monday Shirt",
+                    "strWidth": 216.109375
+                }
+            ]
+        },
+        {
+            "labelIndex": 29,
+            "arrayIndex": 29,
+            "labelName": "SS_fld_dressup_item_name_DJ_15",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Mew Bros Shirt with Dad Cap",
+                    "strWidth": 379.640625
+                }
+            ]
+        },
+        {
+            "labelIndex": 30,
+            "arrayIndex": 30,
+            "labelName": "SS_fld_dressup_item_name_DJ_16",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "Mew Bros Shirt",
+                    "strWidth": 193.09375
+                }
+            ]
+        },
+        {
+            "labelIndex": 31,
+            "arrayIndex": 31,
+            "labelName": "SS_fld_dressup_item_name_Matt",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "El Grande Abogado",
+                    "strWidth": 258.53125
+                }
+            ]
+        },
+        {
+            "labelIndex": 32,
+            "arrayIndex": 32,
+            "labelName": "SS_fld_dressup_item_name_NOOOOOOOOO",
+            "styleInfo": {
+                "styleIndex": 48,
+                "colorIndex": -1,
+                "fontSize": 42,
+                "maxWidth": 672,
+                "controlID": 0
+            },
+            "attributeValueArray": [
+                -1,
+                0,
+                0,
+                -1,
+                0
+            ],
+            "tagDataArray": [],
+            "wordDataArray": [
+                {
+                    "patternID": 0,
+                    "eventID": 7,
+                    "tagIndex": -1,
+                    "tagValue": 0.0,
+                    "str": "DO NOT SCROLL FURTHER",
+                    "strWidth": 371.046875
+                }
+            ]
         }
     ]
 }

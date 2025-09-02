@@ -16,7 +16,7 @@
             "BattleGraphic": "pc0001_00",
             "FieldGraphic": "fc0001_00",
             "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_942"
+            "MSLabel": "SS_fld_dressup_item_name_DJ_1"
         },
         {
             "Index": 1,
@@ -32,7 +32,7 @@
             "BattleGraphic": "pc0001_12",
             "FieldGraphic": "fc0001_12",
             "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_930"
+            "MSLabel": "SS_fld_dressup_item_name_DJ_3"
         },
         {
             "Index": 3,
@@ -40,7 +40,7 @@
             "BattleGraphic": "pc0001_13",
             "FieldGraphic": "fc0001_13",
             "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_931"
+            "MSLabel": "SS_fld_dressup_item_name_DJ_5"
         },
         {
             "Index": 4,
@@ -48,79 +48,55 @@
             "BattleGraphic": "pc0001_14",
             "FieldGraphic": "fc0001_14",
             "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_932"
+            "MSLabel": "SS_fld_dressup_item_name_DJ_7"
         },
         {
             "Index": 5,
-            "ID": "BOY_STYLE_005",
-            "BattleGraphic": "pc0001_22",
-            "FieldGraphic": "fc0001_22",
-            "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_933"
-        },
-        {
-            "Index": 6,
             "ID": "BOY_STYLE_006",
             "BattleGraphic": "pc0001_15",
             "FieldGraphic": "fc0001_15",
             "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_941"
+            "MSLabel": "SS_fld_dressup_item_name_DJ_9"
         },
         {
-            "Index": 7,
+            "Index": 6,
             "ID": "BOY_STYLE_007",
             "BattleGraphic": "pc0001_16",
             "FieldGraphic": "fc0001_16",
             "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_934"
+            "MSLabel": "SS_fld_dressup_item_name_DJ_11"
         },
         {
-            "Index": 8,
+            "Index": 7,
             "ID": "BOY_STYLE_008",
             "BattleGraphic": "pc0001_17",
             "FieldGraphic": "fc0001_17",
             "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_935"
+            "MSLabel": "SS_fld_dressup_item_name_DJ_13"
         },
         {
-            "Index": 9,
+            "Index": 8,
             "ID": "BOY_STYLE_009",
             "BattleGraphic": "pc0001_18",
             "FieldGraphic": "fc0001_18",
             "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_936"
+            "MSLabel": "SS_fld_dressup_item_name_DJ_15"
         },
         {
-            "Index": 10,
-            "ID": "BOY_STYLE_010",
-            "BattleGraphic": "pc0001_19",
-            "FieldGraphic": "fc0001_19",
-            "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_937"
-        },
-        {
-            "Index": 11,
-            "ID": "BOY_STYLE_011",
-            "BattleGraphic": "pc0001_20",
-            "FieldGraphic": "fc0001_20",
-            "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_938"
-        },
-        {
-            "Index": 12,
+            "Index": 9,
             "ID": "BOY_STYLE_012",
             "BattleGraphic": "pc0001_21",
             "FieldGraphic": "fc0001_21",
             "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_939"
+            "MSLabel": "SS_fld_dressup_item_name_Matt"
         },
         {
-            "Index": 13,
+            "Index": 10,
             "ID": "BOY_STYLE_013",
-            "BattleGraphic": "pc0001_11",
-            "FieldGraphic": "fc0001_11",
+            "BattleGraphic": "pc0001_21",
+            "FieldGraphic": "fc0001_21",
             "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_942"
+            "MSLabel": "SS_fld_dressup_item_name_NOOOOOOOOO"
         },
         {
             "Index": 100,
@@ -128,7 +104,7 @@
             "BattleGraphic": "pc0002_00",
             "FieldGraphic": "fc0002_00",
             "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_942"
+            "MSLabel": "SS_fld_dressup_item_name_DJ_2"
         },
         {
             "Index": 101,
@@ -144,7 +120,7 @@
             "BattleGraphic": "pc0002_12",
             "FieldGraphic": "fc0002_12",
             "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_930"
+            "MSLabel": "SS_fld_dressup_item_name_DJ_4"
         },
         {
             "Index": 103,
@@ -152,7 +128,7 @@
             "BattleGraphic": "pc0002_13",
             "FieldGraphic": "fc0002_13",
             "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_931"
+            "MSLabel": "SS_fld_dressup_item_name_DJ_6"
         },
         {
             "Index": 104,
@@ -160,79 +136,47 @@
             "BattleGraphic": "pc0002_14",
             "FieldGraphic": "fc0002_14",
             "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_932"
+            "MSLabel": "SS_fld_dressup_item_name_DJ_8"
         },
         {
             "Index": 105,
-            "ID": "GIRL_STYLE_005",
-            "BattleGraphic": "pc0002_15",
-            "FieldGraphic": "fc0002_15",
-            "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_933"
-        },
-        {
-            "Index": 106,
             "ID": "GIRL_STYLE_006",
             "BattleGraphic": "pc0002_22",
             "FieldGraphic": "fc0002_22",
             "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_941"
+            "MSLabel": "SS_fld_dressup_item_name_DJ_10"
         },
         {
-            "Index": 107,
+            "Index": 106,
             "ID": "GIRL_STYLE_007",
             "BattleGraphic": "pc0002_16",
             "FieldGraphic": "fc0002_16",
             "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_934"
+            "MSLabel": "SS_fld_dressup_item_name_DJ_12"
         },
         {
-            "Index": 108,
+            "Index": 107,
             "ID": "GIRL_STYLE_008",
             "BattleGraphic": "pc0002_17",
             "FieldGraphic": "fc0002_17",
             "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_935"
+            "MSLabel": "SS_fld_dressup_item_name_DJ_14"
         },
         {
-            "Index": 109,
+            "Index": 108,
             "ID": "GIRL_STYLE_009",
             "BattleGraphic": "pc0002_18",
             "FieldGraphic": "fc0002_18",
             "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_936"
+            "MSLabel": "SS_fld_dressup_item_name_DJ_16"
         },
         {
-            "Index": 110,
+            "Index": 109,
             "ID": "GIRL_STYLE_010",
-            "BattleGraphic": "pc0002_19",
-            "FieldGraphic": "fc0002_19",
+            "BattleGraphic": "pc0001_21",
+            "FieldGraphic": "fc0001_21",
             "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_937"
-        },
-        {
-            "Index": 111,
-            "ID": "GIRL_STYLE_011",
-            "BattleGraphic": "pc0002_20",
-            "FieldGraphic": "fc0002_20",
-            "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_938"
-        },
-        {
-            "Index": 112,
-            "ID": "GIRL_STYLE_012",
-            "BattleGraphic": "pc0002_21",
-            "FieldGraphic": "fc0002_21",
-            "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_939"
-        },
-        {
-            "Index": 113,
-            "ID": "GIRL_STYLE_013",
-            "BattleGraphic": "pc0002_11",
-            "FieldGraphic": "fc0002_11",
-            "Scale": 1,
-            "MSLabel": "SS_fld_dressup_item_name_942"
+            "MSLabel": "SS_fld_dressup_item_name_NOOOOOOOOO"
         }
     ]
 }

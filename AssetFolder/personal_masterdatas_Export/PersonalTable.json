@@ -24896,7 +24896,7 @@
             "egg_form_inherit_kawarazunoishi": 0
         },
         {
-            "valid_flag": 0,
+            "valid_flag": 1,
             "id": 553,
             "monsno": 553,
             "form_index": 0,
@@ -37856,7 +37856,7 @@
             "egg_form_inherit_kawarazunoishi": 0
         },
         {
-            "valid_flag": 0,
+            "valid_flag": 1,
             "id": 841,
             "monsno": 841,
             "form_index": 1364,
